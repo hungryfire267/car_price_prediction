@@ -48,8 +48,6 @@ Hyperparameter tuning (if implemented)
 
 4. Model Evaluation
 
-Mean Absolute Error (MAE)
-
-Mean Squared Error (MSE)
-
-R² Score
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- R² Score

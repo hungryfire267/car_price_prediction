@@ -20,7 +20,13 @@ car_prediction.ipynb   # Main Jupyter notebook
 README.md              # Project documentation
 dataset.csv            # Dataset
 ```
-
+## Tech Stack
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
 ## Workflow
 1. Data Preprocessing
 

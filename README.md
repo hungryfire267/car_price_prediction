@@ -13,3 +13,43 @@ This notebook walks through:
 - Exploratory Data Analysis (EDA)
 - Model training and evaluation
 - Price prediction
+
+## Project Structure
+```
+car_prediction.ipynb   # Main Jupyter notebook
+README.md              # Project documentation
+dataset.csv            # Dataset
+```
+
+## Workflow
+1. Data Preprocessing
+
+Handle missing values
+
+Encode categorical variables
+
+Feature scaling (if applicable)
+
+2. Exploratory Data Analysis (EDA)
+
+Correlation analysis
+
+Feature distribution visualisation
+
+Outlier detection
+
+3. Model Training
+
+Train-test split
+
+Regression model(s) (e.g., Linear Regression, Random Forest)
+
+Hyperparameter tuning (if implemented)
+
+4. Model Evaluation
+
+Mean Absolute Error (MAE)
+
+Mean Squared Error (MSE)
+
+R² Score

@@ -40,7 +40,7 @@ dataset.csv            # Dataset
 
 3. Model Training
 - Train-test split
-- Regression models (e.g., Linear Regression, Random Forest)
+- Regression models (e.g., Linear Regression, Random Forest, xGBoost)
 - Hyperparameter tuning
 4. Model Evaluation
 - Mean Absolute Error (MAE)

@@ -46,3 +46,20 @@ dataset.csv            # Dataset
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - R² Score
+
+## Results
+Ensemble models significantly outperformed traditional linear regression approaches.
+| Model         | MAE       | RMSE      |
+| ------------- | --------- | --------- |
+| OLS           | 8,829     | 16,189    |
+| Lasso         | 8,637     | 13,263    |
+| Random Forest | **4,064** | **7,458** |
+| XGBoost       | 4,899     | 8,504     |
+
+## Key Findings
+- Random Forest reduced average pricing error by ~54% compared to OLS.
+- XGBoost also delivered strong performance, confirming nonlinear pricing patterns in the dataset.
+- Tree-based ensemble models captured feature interactions (mileage × age depreciation) more effectively than linear models.
+
+- 
+

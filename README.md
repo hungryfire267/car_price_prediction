@@ -29,31 +29,20 @@ dataset.csv            # Dataset
 - Scikit-learn
 ## Workflow
 1. Data Preprocessing
-
-Handle missing values
-
-Encode categorical variables
-
-Feature scaling (if applicable)
+- Handle missing values (mean and mode)
+- Encode categorical variables
+- Feature scaling (min-max, z scaling)
 
 2. Exploratory Data Analysis (EDA)
-
-Correlation analysis
-
-Feature distribution visualisation
-
-Outlier detection
+- Correlation analysis
+- Feature distribution visualisation
+- Outlier detection
 
 3. Model Training
-
-Train-test split
-
-Regression model(s) (e.g., Linear Regression, Random Forest)
-
-Hyperparameter tuning (if implemented)
-
+- Train-test split
+- Regression models (e.g., Linear Regression, Random Forest)
+- Hyperparameter tuning
 4. Model Evaluation
-
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - R² Score

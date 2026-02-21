@@ -61,5 +61,5 @@ Ensemble models significantly outperformed traditional linear regression approac
 - XGBoost also delivered strong performance, confirming nonlinear pricing patterns in the dataset.
 - Tree-based ensemble models captured feature interactions (mileage × age depreciation) more effectively than linear models.
 
-- 
-
+## Business Impact
+The improved performance of the Random Forest model demonstrates clear business value by significantly reducing pricing error compared to traditional linear models. By lowering the average prediction error from approximately $8,800 to around $4,000 per vehicle, the model enables more accurate and data-driven pricing decisions. For high-volume dealerships, this reduction in mispricing risk can translate into stronger profit margins, faster inventory turnover, and reduced revenue leakage from underpricing or overpricing vehicles. Ultimately, leveraging advanced ensemble models supports smarter valuation strategies and more competitive positioning in the automotive market.
